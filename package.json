@@ -4,7 +4,7 @@
   "description": "RxControl is a software system that allows providers such as doctor or pharmacy from different states communicate with each other and have a better system for narcotics control.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start":"node app.js"
   },
   "author": "Elliot Briant and Jayce Azua",
   "license": "MIT",
